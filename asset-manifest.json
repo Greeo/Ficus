@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ficus/static/css/main.94431eb2.chunk.css",
+    "main.js": "/ficus/static/js/main.863e987f.chunk.js",
+    "main.js.map": "/ficus/static/js/main.863e987f.chunk.js.map",
+    "runtime-main.js": "/ficus/static/js/runtime-main.977ecb1a.js",
+    "runtime-main.js.map": "/ficus/static/js/runtime-main.977ecb1a.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/ficus/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a0103554.chunk.js": "/ficus/static/js/2.a0103554.chunk.js",
+    "static/js/2.a0103554.chunk.js.map": "/ficus/static/js/2.a0103554.chunk.js.map",
+    "index.html": "/ficus/index.html",
+    "precache-manifest.98219a3d4970ec17aa5a8f45cc74c3da.js": "/ficus/precache-manifest.98219a3d4970ec17aa5a8f45cc74c3da.js",
+    "service-worker.js": "/ficus/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/ficus/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.94431eb2.chunk.css.map": "/ficus/static/css/main.94431eb2.chunk.css.map",
+    "static/js/2.a0103554.chunk.js.LICENSE": "/ficus/static/js/2.a0103554.chunk.js.LICENSE",
+    "static/media/App.css": "/ficus/static/media/clouds.61c4e000.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.977ecb1a.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.a0103554.chunk.js",
+    "static/css/main.94431eb2.chunk.css",
+    "static/js/main.863e987f.chunk.js"
+  ]
+}
